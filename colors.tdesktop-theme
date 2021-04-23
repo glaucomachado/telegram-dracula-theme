@@ -31,8 +31,8 @@ windowBgOver: pSelection; // Generic bg hover color (random bits and pieces) & S
 windowBgRipple: rippleBgLight; // Ripple color (on hover colored items) [te]
 windowFgOver: windowFg; // Text color on hover
 windowSubTextFg: pComment; // Minor text and some labels (version number, last seen, etc.)
-windowSubTextFgOver: pPurple; // Hotkey hover text color?
-windowBoldFg: pYellow; // Bolded text (headers) [te]
+windowSubTextFgOver: pYellow; // Hotkey hover text color?
+windowBoldFg: pPurple; // Bolded text (headers) [te]
 windowBoldFgOver: windowBoldFg; // windowBoldFg but on hover (idk where used)
 windowBgActive: pGreen; // Checked radio and checkbox color
 windowFgActive: pBg; // Button Text [te]
@@ -125,10 +125,10 @@ boxTitleCloseFgOver: cancelIconFgOver;
 membersAboutLimitFg: pRed; // [te]
 contactsBg: windowBg; // Contact bg color on contacts page
 contactsBgOver: windowBgOver;
-contactsNameFg: pYellow; // Contact name color on contacts page [te]
-contactsStatusFg: windowSubTextFg; // Contact status color on contacts page
+contactsNameFg: pCyan; // Contact name color on contacts page [te]
+contactsStatusFg: pPurple; // Contact status color on contacts page
 contactsStatusFgOver: windowSubTextFgOver;
-contactsStatusFgOnline: windowActiveTextFg;
+contactsStatusFgOnline: pOrange;
 photoCropFadeBg: layerBg;
 photoCropPointFg: pComment;
 introBg: windowBg;
@@ -157,7 +157,7 @@ dialogsSendingIconFg: pOrange; // ??? little clock icon on chat contact (the one
 dialogsSentIconFg: pGreen;
 dialogsUnreadBg: pComment; // [te]
 dialogsUnreadBgMuted: pSelection; // [te]
-dialogsUnreadFg: pFg; // [te]
+dialogsUnreadFg: pOrange; // [te]
 dialogsBgOver: windowBgOver;
 dialogsNameFgOver: windowBoldFgOver;
 dialogsChatIconFgOver: dialogsChatIconFg;
