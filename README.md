@@ -1,6 +1,6 @@
 # Alternative Dracula theme for [Telegram Desktop](https://desktop.telegram.org/)
 
-> An alternative dark theme for [Telegram Desktop](https://desktop.telegram.org/) inspired in [Dracula Telegram](https://github.com/dracula/telegram).
+> An alternative dark theme for [Telegram Desktop](https://desktop.telegram.org/) based on [Dracula Telegram](https://github.com/dracula/telegram).
 
 ![Screenshot](./screenshot.png)
 
